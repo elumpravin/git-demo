@@ -3,4 +3,5 @@
  echo "</br>";
  echo phpinfo();
  echo "</br>";
+ echo 'This sis edit from localhost';
 ?>
